@@ -1,6 +1,10 @@
-# Kruels-Character-Creation-Model-Project
+# Kruel's Character Creation Model Project
+
+DAT mods for use with XIPivot that change in game character create head models to the actual character creation head models from the creator.
 
 <img width="2238" height="1282" alt="Image" src="https://github.com/user-attachments/assets/b4157c87-291a-49c1-9a7d-7cce258a5bce" />
+
+## Summary
 
 The goal is to replace all in game models that use create a character in game heads with the actual heads from the character creation screen.
 
