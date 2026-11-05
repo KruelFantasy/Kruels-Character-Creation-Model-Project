@@ -1,6 +1,6 @@
 # Kruel's Character Creation Model Project
 
-DAT mods for use with XIPivot that change in game character create head models to the actual character creation head models from the creator.
+DAT mods for use with XIPivot that change in game character create head models to the actual character creation head models from the creator for Final Fantasy 11.
 
 <img width="2238" height="1282" alt="Image" src="https://github.com/user-attachments/assets/b4157c87-291a-49c1-9a7d-7cce258a5bce" />
 
