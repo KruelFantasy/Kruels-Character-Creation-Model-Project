@@ -51,6 +51,13 @@ Depending on how many of these exist, it could affect the size possibly quite a 
 
 I will also want to have a test period in game before I publicly release this, I do not want to be releasing something that ends up causing crashes for people, it will probably be a minimum of 1 week of testing, but i will have friends beta test it also, without beta testing, I wouldn't trust only 1 week.
 
+## Installation
+Put the ROM folder into whatever folder you use for your XIPivot mods in:
+
+```
+Windower4/addons/XIPivot/data/DATs/…
+
+```
 ## Release Date
 
 Unfortunately I am not in a place to even give a tentative date at the moment, all I can say is watch this space, and it should be hopefully ready for public release before the end of the month.
