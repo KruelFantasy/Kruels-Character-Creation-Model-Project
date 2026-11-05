@@ -1,5 +1,7 @@
 # Kruels-Character-Creation-Model-Project
 
+<img width="2238" height="1282" alt="Image" src="https://github.com/user-attachments/assets/b4157c87-291a-49c1-9a7d-7cce258a5bce" />
+
 The goal is to replace all in game models that use create a character in game heads with the actual heads from the character creation screen.
 
 I plan to fully rig eye and mouth animations on the models, and have already completed the eyes for all of them, and the mouths for some of them.
