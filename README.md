@@ -29,3 +29,5 @@ There are a number of NPC's in game that do use the same normal created characte
 I will also be doing custom conversions for some of the more important story NPC's that use variations of the normal create a character heads, for example, I have already done this for Ygnas in his human form and Garazu-Horeizu from the Voracious Resurgence.
 
 <img width="2460" height="1496" alt="Image" src="https://github.com/user-attachments/assets/ddbc824b-033c-4cd6-8158-f1b6c4f5f005" />
+
+<img width="3573" height="1954" alt="Image" src="https://github.com/user-attachments/assets/b3401ea2-a31d-4fd5-990f-49f2aeef90ae" />
