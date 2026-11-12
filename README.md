@@ -32,6 +32,8 @@ I will also be doing custom conversions for some of the more important story NPC
 
 <img width="3573" height="1954" alt="Image" src="https://github.com/user-attachments/assets/b3401ea2-a31d-4fd5-990f-49f2aeef90ae" />
 
+<img width="2302" height="1302" alt="Screenshot 2026-11-12 125315" src="https://github.com/user-attachments/assets/fe88ab12-5164-4201-969b-9f2c78a9703d" />
+
 ## Current progress
 
 I won't be releasing it till it is basically fully complete, I do not want people to have to constantly be downloading the latest iterations.
