@@ -2,7 +2,7 @@
 
 DAT mods for use with XIPivot that change in game character create head models to the actual character creation head models from the creator menu for Final Fantasy 11.
 
-<img width="2238" height="1282" alt="Image" src="https://github.com/user-attachments/assets/b4157c87-291a-49c1-9a7d-7cce258a5bce" />
+<img width="2326" height="1429" alt="Untitled" src="https://github.com/user-attachments/assets/466d7f67-dc62-4356-9e81-d25a2af8ca13" />
 
 ## Summary
 
