@@ -64,10 +64,24 @@ Windower4/addons/XIPivot/data/DATs/…
 
 Unfortunately I am not in a place to even give a tentative date at the moment, all I can say is watch this space, and it should be hopefully ready for public release before the end of the month.
 
+## Latest Progress
+
+- Fully built internal mouth geometry and textures for all races, including fanged teeth for Mithra.
+- All basic Blinking and mouth opening animations working correctly.
+- Mithra ear animations added.
+- Tarutaru eyebrow animations added.
+
+## To do
+
+- Fix any broken animations across all heads.
+- Replace all random NPC's scattered around the game using these heads on full skeletons instead of using the head DAT files.
+- Replace all Trusts using these types of heads. (same as above, they use full skeletons).
+
 ## A personal request
 
 I no longer upload mods to ffxiah.com due to some of the people on the forums there, everyone will know most of the people I am talking about, and the fact that I got a temp block from a moderator for getting abused
 by some of them, even though I was the one being cordial.
+
 So please do not link this in any ffxiah.com forums please, and as an added incentive, if this does not show up on the forums by the end of this year, I'll start adding in a lot of my unreleased mods that for the
 past 2 years I have only been distributing to friends.
 I have been busy this past 2 years as far as FF11 modding goes.
