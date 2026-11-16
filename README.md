@@ -74,7 +74,7 @@ Unfortunately I am not in a place to even give a tentative date at the moment, a
 ## To do
 
 - Fix any broken animations across all heads.
-- Replace all random NPC's scattered around the game using these heads on full skeletons instead of using the head DAT files.
+- Replace all random NPC's scattered around the game that are using these heads on full skeletons instead of using the head DAT files.
 - Replace all Trusts using these types of heads. (same as above, they use full skeletons).
 
 ## A personal request
