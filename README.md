@@ -41,7 +41,7 @@ I won't be releasing it till it is basically fully complete, I do not want peopl
 Now, this is a massive project, and I'm only one man, so I'll almost certainly miss some things here or there, or possibly want to make some improvements, but this will only be after the full release, I'm not actively
 planning to do these things, only if they are needed.
 
-I have been working on this for around 2 weeks so far, it really is a job for a team of people, but I've been burning the candle at both ends to reach some of the bigger milestones before I slow down, the first big
+I have been working on this for around 4 weeks so far, it really is a job for a team of people, but I've been burning the candle at both ends to reach some of the bigger milestones before I slow down, the first big
 milestone was completing all the base models for all races/sexes, and this is why I have started prepping the Github for it today.
 
 ## Performance
