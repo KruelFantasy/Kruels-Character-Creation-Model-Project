@@ -70,10 +70,11 @@ Unfortunately I am not in a place to even give a tentative date at the moment, a
 - All basic Blinking and mouth opening animations working correctly.
 - Mithra ear animations added.
 - Tarutaru eyebrow animations added.
+- Discovered and fixed all lighting diffusion issues with the new heads.
+- Started on the final stage of converting all Trusts and extra NPC's
 
 ## To do
 
-- Fix any broken animations across all heads.
 - Replace all random NPC's scattered around the game that are using these heads on full skeletons instead of using the head DAT files.
 - Replace all Trusts using these types of heads. (same as above, they use full skeletons).
 
