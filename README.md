@@ -70,6 +70,7 @@ Unfortunately I am not in a place to even give a tentative date at the moment, a
 - All basic Blinking and mouth opening animations working correctly.
 - Mithra ear animations added.
 - Tarutaru eyebrow animations added.
+- Fixed as many animation issues as I could discover, this was the most difficult and long process, I did the best I can with it, not all are perfect.
 - Discovered and fixed all lighting diffusion issues with the new heads.
 - Started on the final stage of converting all Trusts and extra NPC's
 
