@@ -4,6 +4,8 @@ DAT mods for use with XIPivot that change in game character create head models t
 
 <img width="2326" height="1429" alt="Untitled" src="https://github.com/user-attachments/assets/466d7f67-dc62-4356-9e81-d25a2af8ca13" />
 
+https://github.com/user-attachments/assets/9453f472-52f3-4eaf-8041-56ba2d47c13d
+
 ## Summary
 
 The goal is to replace all in game models that use create a character in game heads with the actual heads from the character creation screen.
