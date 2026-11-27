@@ -36,6 +36,15 @@ I will also be doing custom conversions for some of the more important story NPC
 
 <img width="2302" height="1302" alt="Screenshot 2026-11-12 125315" src="https://github.com/user-attachments/assets/fe88ab12-5164-4201-969b-9f2c78a9703d" />
 
+## Optional original created characters
+
+<img width="1981" height="1142" alt="Ulmia Github" src="https://github.com/user-attachments/assets/b0090c82-a4d3-4393-b0a3-22f1fb467650" />
+
+Some prominent characters in game have neither a character creator head, or a good looking higher quality model, Ulmia above is the perfect example of that.
+Unlike Prishe, Lion, Nashmiera, Lilisette, etc. Ulmia has a horribly low res model, that is also very generic.
+I'm not sure how many of these I am willing to make, as Ulmia took a lot of effort, but they will be optional.
+In the example above, I have tried to interpret what I think Ulmia would look like in the character creator model style.
+
 ## Current progress
 
 I won't be releasing it till it is basically fully complete, I do not want people to have to constantly be downloading the latest iterations.
