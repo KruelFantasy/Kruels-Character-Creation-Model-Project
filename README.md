@@ -26,7 +26,7 @@ Again, the amounts of headgear with actual bad clipping in game is extremely sma
 
 At the moment I have fully completed the base head models for all races and sexes, this accounts for roughly 60%+ of all in game NPC's.
 
-There are a number of NPC's in game that do use the same normal created character heads, but they don't actually use the base DATs for them, and instead use a full skeleton specific mode to that NPC, these and Trusts that also use normal create a character heads will be the final conversion I do, as I have to locate every single one of them and convert them one by one.
+There are a number of NPC's in game that do use the same normal created character heads, but they don't actually use the base DATs for them, and instead use a full skeleton specific model to that NPC, these and Trusts that also use normal create a character heads will be the final conversion I do, as I have to locate every single one of them and convert them one by one.
 
 I will also be doing custom conversions for some of the more important story NPC's that use variations of the normal create a character heads, for example, I have already done this for Ygnas in his human form and Garazu-Horeizu from the Voracious Resurgence.
 
